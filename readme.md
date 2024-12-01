@@ -17,3 +17,6 @@ Renderを使用する場合の手順
 <a href="https://render.com/deploy?repo=https://github.com/yoshihisa11132/yuki-youtube-slim-2">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
+ちなみに画像の引用元は
+<a>href="https://x.com/sgGjgmwdwwMwp/status/1862692993536540927?t=VGUnMeH74S-s2i6sy9yGIg&s=19"</a>
+です
