@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-tangolevel
+    name: yossi-kuizu
     env: python
     region: Oregon
     plan: free
